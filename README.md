@@ -1,4 +1,4 @@
-<h2> Hi, I'm Ibrahim Alassaf! <img src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Ibrahim Alassaf!</h2>
 <img align='right' src="https://media.giphy.com/media/TkZMjuv3S1qPJ3MV1u/giphy.gif" width="230">
 <p><em>Information System at <a href="https://www.taibahu.edu.sa/Pages/AR/Home.aspx">University of Taibah </a><img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="30"></br>Web Developer to be <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p> 
