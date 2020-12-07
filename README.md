@@ -8,7 +8,7 @@
 [![GitHub ibralassaf](https://img.shields.io/github/followers/ibralassaf?label=follow&style=social)](https://github.com/ibralassaf)
 
 
-### <img src="https://media.giphy.com/media/KZhn9CrqEKYPC/giphy.gif" width="50"> A little more about me...  
+### A little more about me...  
 
 ```javascript
 const ibrahim = {
