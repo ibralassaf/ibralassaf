@@ -13,7 +13,7 @@
 ```javascript
 const ibrahim = {
   pronouns: "he" | "his",
-  code: [Javascript, Typescript, HTML, CSS, Python, Java],
+  code: [Javascript, HTML, CSS, Python, Java],
   tools: [React, Node,],
   architecture: ["soon"],
   techCommunities: {
