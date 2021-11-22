@@ -1,5 +1,7 @@
 <h2> Hi, I'm Ibrahim Alassaf!</h2>
+<!---
 <img align='right' src="https://media.giphy.com/media/TkZMjuv3S1qPJ3MV1u/giphy.gif" width="230">
+-->
 <p><em>Information System at <a href="https://www.taibahu.edu.sa/Pages/AR/Home.aspx">University of Taibah </a><img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="30"></br>Web Developer to be <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p> 
 
@@ -23,5 +25,5 @@ const ibrahim = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+ <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
