@@ -14,9 +14,8 @@
 
 ```javascript
 const ibrahim = {
-  pronouns: "he" | "his",
   code: [Javascript, HTML, CSS, Python, Java],
-  tools: [React, Node,],
+  tools: [React, Node],
   architecture: ["soon"],
   techCommunities: {
                         soon: "soon",
