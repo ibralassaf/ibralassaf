@@ -5,7 +5,7 @@
 <p><em>Information System at <a href="https://www.taibahu.edu.sa/Pages/AR/Home.aspx">University of Taibah </a><img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="30"></br>Web Developer to be <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p> 
 
-[![Twitter: ibr_alassaf](https://img.shields.io/twitter/follow/ibr_alassaf?style=social)](https://twitter.com/ibr_alassaf)
+[![Twitter: ibralassaf](https://img.shields.io/twitter/follow/ibr_alassaf?style=social)](https://twitter.com/ibr_alassaf)
 [![Linkedin: ibralassaf](https://img.shields.io/badge/-ibralassaf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ibralassaf/)](https://www.linkedin.com/in/ibralassaf)
 [![GitHub ibralassaf](https://img.shields.io/github/followers/ibralassaf?label=follow&style=social)](https://github.com/ibralassaf)
 
