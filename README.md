@@ -1,3 +1,5 @@
+![alt text](https://github.com/ibralassaf/ibralassaf/blob/main/header.png?raw=true "Logo Title Text 1")
+
 Hi 👋 My name is Ibrahim Alassaf
 ================================
 
@@ -45,7 +47,6 @@ src="https://img.shields.io/twitter/follow/Ibralassaf?logo=twitter&style=for-the
 
 <a href="http://www.github.com/ibralassaf"><img src="https://github-readme-stats.vercel.app/api?username=ibralassaf&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ibralassaf's GitHub stats" /></a>
 
-<a href="https://github.com/ibralassaf" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibralassaf&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 
