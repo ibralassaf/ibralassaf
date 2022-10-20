@@ -3,7 +3,7 @@
 Hi 👋 My name is Ibrahim Alassaf
 ================================
 
-Web Developer
+Full Stack Developer
 -------------
 
 I’ve been learning to code for a while, after experiments with a lot of things at the university. I started with .NET and backend development in general, but have really found a passion for frontend development
