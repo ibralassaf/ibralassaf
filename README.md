@@ -3,7 +3,7 @@
 Hi 👋 My name is Ibrahim Alassaf
 ================================
 
-Full Stack Developer
+Software Developer
 -------------
 
 I’ve been learning to code for a while, after experiments with a lot of things at the university. I started with .NET and backend development in general, but have really found a passion for frontend development
@@ -11,7 +11,6 @@ I’ve been learning to code for a while, after experiments with a lot of things
 * 🌍  I'm based in Saudi Arabia
 * 🖥️  See my portfolio at [ialassaf.sa](http://ialassaf.sa)
 * ✉️  You can contact me at [me@ialassaf.sa](mailto:me@ialassaf.sa)
-* 🚀  I'm currently working on [SeebTech](http://seebtech.net)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on anything related to the web development
 
